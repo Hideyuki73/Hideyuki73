@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Rodrigo H. Kawakami
 
 🎓 Desenvolvedor Full Stack Júnior  
 💻 Foco em aplicações Web modernas  
