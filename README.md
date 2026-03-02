@@ -1,14 +1,11 @@
-# 👋 Olá, eu sou Rodrigo H. Kawakami
 
-🎓 Desenvolvedor Full Stack Júnior  
-💻 Foco em aplicações Web modernas  
-🚀 Evoluindo constantemente em arquitetura e boas práticas
+Desenvolvedor Full Stack Júnior  
+Foco em aplicações Web modernas  
+Evoluindo constantemente em arquitetura e boas práticas
 
 ---
 
-## 🧠 Sobre mim
-
-Sou desenvolvedor com experiência prática no desenvolvimento de aplicações utilizando:
+Desenvolvedor com experiência prática no desenvolvimento de aplicações utilizando:
 
 - **React + Next.js** no frontend
 - **Node.js + NestJS** no backend
@@ -26,7 +23,7 @@ Busco evoluir tecnicamente para atuar como desenvolvedor Full Stack Pleno.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -44,21 +41,21 @@ Busco evoluir tecnicamente para atuar como desenvolvedor Full Stack Pleno.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hideyuki73&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hideyuki73&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hideyuki73&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🎯 Objetivo Profissional
+## Objetivo Profissional
 
 Desenvolver aplicações web escaláveis e bem estruturadas, evoluindo constantemente em arquitetura e engenharia de software para alcançar nível pleno nos próximos anos.
 
